@@ -1,7 +1,7 @@
 .bundle
 vendor/bundle
-temp
+tmp
 config/config.yml
 config/db.yml
-public/
-log/
+public
+log
