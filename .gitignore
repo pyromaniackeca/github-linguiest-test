@@ -1,0 +1,7 @@
+.bundle
+vendor/bundle
+temp
+config/config.yml
+config/db.yml
+public/
+log/
